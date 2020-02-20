@@ -1,3 +1,5 @@
+package ProgramareProcedurala;
+
 public class Tema3Ex6 {
     public static void main(String[] args) {
         int[] intArray = new int[]{40, 50, 90};

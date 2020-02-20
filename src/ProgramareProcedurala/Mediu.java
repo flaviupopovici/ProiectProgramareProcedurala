@@ -1,3 +1,5 @@
+package ProgramareProcedurala;
+
 public class Mediu {
     int x = 0;
 

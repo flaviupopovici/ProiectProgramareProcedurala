@@ -1,3 +1,5 @@
+package ProgramareProcedurala;
+
 import java.util.Scanner;
 
 public class Tema3Ex5 {

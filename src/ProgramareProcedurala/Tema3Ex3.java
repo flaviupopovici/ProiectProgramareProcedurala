@@ -1,3 +1,5 @@
+package ProgramareProcedurala;
+
 public class Tema3Ex3 {
 
     public static void main(String[] args) {

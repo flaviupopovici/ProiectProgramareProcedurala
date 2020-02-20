@@ -1,3 +1,5 @@
+package ProgramareProcedurala;
+
 import java.util.Arrays;
 
 public class Tema3Ex2 {
