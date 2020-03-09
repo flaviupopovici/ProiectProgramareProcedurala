@@ -14,13 +14,4 @@ public class Leopard extends Animal {
     public Leopard(String tipAnimal, String culoare, int varsta) {
         super(tipAnimal, culoare, varsta);
     }
-
-    public String getAnimal() {
-        return "Leopard";
-    }
-
-    public void setTipAnimal(String tipAnimal) {
-        this.tipAnimal = "leopard";
-    }
-
 }
