@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46524026-5052-4aed-a579-26d262023747" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/OOP/Tema5/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Tema5/Apartament.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Tema5/Imobil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Tema5/Leopard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Tema5/Leu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Tema5/TestAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Tema5/TestImobil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Tema5/Vila.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Tema4/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Imobil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Tema4/Imobil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/TestAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Tema4/TestAnimal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/TestImobil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Tema4/TestImobil.java" afterDir="false" />
-    </list>
+    <list default="true" id="46524026-5052-4aed-a579-26d262023747" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,8 +17,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/OOP/Tema5/TestImobil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            <state relative-caret-position="252">
+              <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -220,7 +206,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestImobil (1)">
+  <component name="RunManager" selected="Application.TestAnimal">
     <configuration name="Tema3Ex5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProgramareProcedurala.Tema3Ex5" />
       <module name="ProiectProgramareProcedurala" />
@@ -276,8 +262,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestImobil (1)" />
         <item itemvalue="Application.TestAnimal" />
+        <item itemvalue="Application.TestImobil (1)" />
         <item itemvalue="Application.TestImobil" />
         <item itemvalue="Application.Tema3Ex6" />
         <item itemvalue="Application.Tema3Ex5" />
@@ -299,7 +285,7 @@
       <workItem from="1580717138643" duration="1924000" />
       <workItem from="1581334792024" duration="6369000" />
       <workItem from="1582199505008" duration="2484000" />
-      <workItem from="1583738859156" duration="3471000" />
+      <workItem from="1583738859156" duration="3613000" />
     </task>
     <task id="LOCAL-00001" summary="Tema 3 - Exercitii">
       <created>1581341492371</created>
@@ -319,13 +305,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21880000" />
+    <option name="totallyTimeSpent" value="22022000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1968032" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1968032" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -334,7 +319,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.46755922" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.46755922" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.26879504" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -342,7 +327,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32955715" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.24716787" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.24716787" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32955715" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -638,13 +623,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/OOP/Tema5/Imobil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/OOP/Tema5/Vila.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-308">
@@ -691,10 +669,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/OOP/Tema5/Imobil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/OOP/Tema5/TestImobil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        <state relative-caret-position="252">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
         </state>
       </provider>
     </entry>

@@ -23,7 +23,4 @@ public class Leopard extends Animal {
         this.tipAnimal = "leopard";
     }
 
-    public String afiseazaDetalii() {
-        return "Tip Animal " + tipAnimal + " culoarea animalului este " + culoare + " varsta animalului este " + varsta;
-    }
 }

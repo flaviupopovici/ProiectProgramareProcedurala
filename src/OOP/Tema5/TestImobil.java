@@ -7,6 +7,7 @@ public class TestImobil {
         Apartament ap1 = new Apartament();
         ap1.setTipCasa("Apartament 3 camere");
         ap1.setNrEtaje(1);
+        System.out.println(ap1.afiseazaDetalii());
 
         Vila vila1 = new Vila();
         vila1.setTipCasa("vila");

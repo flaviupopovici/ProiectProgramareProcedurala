@@ -44,4 +44,9 @@ public class Imobil {
         this.pret = pret;
     }
 
+    public String afiseazaDetalii(){
+        return "Tipul casei este " + tipCasa + "numarul de etaje " + nrEtaje + " pretul este " + pret;
+    }
+
+
 }
