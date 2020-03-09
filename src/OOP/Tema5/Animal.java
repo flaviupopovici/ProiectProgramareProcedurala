@@ -1,4 +1,4 @@
-package OOP;
+package OOP.Tema5;
 
 public class Animal {
 
@@ -46,5 +46,7 @@ public class Animal {
         this.varsta = varsta;
     }
 
-
+    public String afiseazaDetalii() {
+        return "Tip Animal" + tipAnimal + "culoarea animalului este" + culoare + "varsta animalului este" + varsta;
+    }
 }

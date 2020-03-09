@@ -1,4 +1,4 @@
-package OOP;
+package OOP.Tema4;
 
 public class TestAnimal {
 
