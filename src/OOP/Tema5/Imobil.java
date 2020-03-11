@@ -7,11 +7,15 @@ public class Imobil {
     double pret;
 
     public Imobil() {
+        tipCasa = "";
+        nrEtaje = 0;
+        pret = 0;
     }
 
     public Imobil(String tipCasa, int nrEtaje) {
         this.tipCasa = tipCasa;
         this.nrEtaje = nrEtaje;
+        pret = 0;
     }
 
     public Imobil(String tipCasa, int nrEtaje, double pret) {

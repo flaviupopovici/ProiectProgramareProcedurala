@@ -8,11 +8,15 @@ public class Animal {
 
 
     public Animal() {
+        tipAnimal = "";
+        culoare = "";
+        varsta = 0;
     }
 
     public Animal(String tipAnimal, String culoare) {
         this.culoare = culoare;
         this.tipAnimal = tipAnimal;
+        varsta = 0;
     }
 
     public Animal(String tipAnimal, String culoare, int varsta) {
